@@ -1,0 +1,408 @@
+[
+  {
+    "id": 1,
+    "name": "The Golden Spoon",
+    "description": "A cozy place for modern comfort food",
+    "location": "123 Elm Street",
+    "menu": [
+      {
+        "id": 2,
+        "name": "Caesar Salad d",
+        "description": "Crispy romaine with Caesar dressing",
+        "price": 12
+      },
+      {
+        "name": "Pasta Alfredo",
+        "description": "Good ",
+        "price": 120,
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bistro Bella",
+    "description": "Elegant dining with a European flair",
+    "location": "456 Oak Avenue",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Steak Frites",
+        "description": "Juicy steak with crispy fries",
+        "price": 25
+      },
+      {
+        "id": 2,
+        "name": "Escargot",
+        "description": "Garlic butter snails",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sushi Zen",
+    "description": "Authentic Japanese sushi and ramen",
+    "location": "789 Pine Lane",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Dragon Roll",
+        "description": "Shrimp tempura and avocado",
+        "price": 20
+      },
+      {
+        "id": 2,
+        "name": "Tonkotsu Ramen",
+        "description": "Rich pork broth with noodles",
+        "price": 14
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pizza Palace",
+    "description": "Your go-to spot for gourmet pizza",
+    "location": "101 Maple Road",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "description": "Classic pizza with fresh mozzarella",
+        "price": 16
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni Pizza",
+        "description": "Spicy pepperoni with cheese",
+        "price": 18
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Vegan Vibes",
+    "description": "Plant-based dishes with a twist",
+    "location": "202 Cedar Drive",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Vegan Burger",
+        "description": "Plant-based patty with all the fixings",
+        "price": 14
+      },
+      {
+        "id": 2,
+        "name": "Avocado Toast",
+        "description": "Smashed avocado on sourdough",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "La Fiesta",
+    "description": "A vibrant celebration of Mexican cuisine",
+    "location": "303 Birch Boulevard",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Tacos al Pastor",
+        "description": "Marinated pork with pineapple",
+        "price": 12
+      },
+      {
+        "id": 2,
+        "name": "Guacamole",
+        "description": "Freshly made with lime and cilantro",
+        "price": 8
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "The Seafood Shack",
+    "description": "Fresh seafood served daily",
+    "location": "404 Ocean View",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Lobster Roll",
+        "description": "Buttery lobster on a toasted bun",
+        "price": 22
+      },
+      {
+        "id": 2,
+        "name": "Clam Chowder",
+        "description": "Creamy chowder with fresh clams",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Burger Barn",
+    "description": "Home of the best burgers in town",
+    "location": "505 River Road",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Classic Cheeseburger",
+        "description": "Beef patty with cheddar cheese",
+        "price": 12
+      },
+      {
+        "id": 2,
+        "name": "Sweet Potato Fries",
+        "description": "Crispy fries with a sweet twist",
+        "price": 6
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Café Mocha",
+    "description": "The perfect spot for coffee and pastries",
+    "location": "606 Hill Street",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Latte",
+        "description": "Rich espresso with steamed milk",
+        "price": 5
+      },
+      {
+        "id": 2,
+        "name": "Croissant",
+        "description": "Flaky and buttery pastry",
+        "price": 4
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tandoori House",
+    "description": "Delicious Indian food with bold flavors",
+    "location": "707 Valley Avenue",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Chicken Tikka Masala",
+        "description": "Grilled chicken in a creamy tomato sauce",
+        "price": 15
+      },
+      {
+        "id": 2,
+        "name": "Naan Bread",
+        "description": "Freshly baked flatbread",
+        "price": 3
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Pasta Fresca",
+    "description": "Traditional Italian pasta dishes",
+    "location": "808 Spruce Street",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "description": "Pasta with pancetta and eggs",
+        "price": 17
+      },
+      {
+        "id": 2,
+        "name": "Caprese Salad",
+        "description": "Tomatoes, mozzarella, and basil",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Mediterraneo",
+    "description": "A taste of the Mediterranean",
+    "location": "909 Olive Avenue",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Hummus Plate",
+        "description": "Chickpea dip with pita bread",
+        "price": 8
+      },
+      {
+        "id": 2,
+        "name": "Lamb Gyro",
+        "description": "Grilled lamb with tzatziki",
+        "price": 12
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "BBQ Junction",
+    "description": "Smoky barbecue with all the fixings",
+    "location": "1010 Cherry Lane",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Pulled Pork Sandwich",
+        "description": "Slow-cooked pork with BBQ sauce",
+        "price": 14
+      },
+      {
+        "id": 2,
+        "name": "Coleslaw",
+        "description": "Crispy cabbage with a tangy dressing",
+        "price": 5
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Taco Town",
+    "description": "Authentic street tacos",
+    "location": "1111 Willow Way",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Carnitas Tacos",
+        "description": "Slow-cooked pork with salsa verde",
+        "price": 10
+      },
+      {
+        "id": 2,
+        "name": "Elote",
+        "description": "Grilled corn with cheese and spices",
+        "price": 5
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Brunch & Beyond",
+    "description": "Your weekend brunch destination",
+    "location": "1212 Cypress Court",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Eggs Benedict",
+        "description": "Poached eggs with hollandaise sauce",
+        "price": 14
+      },
+      {
+        "id": 2,
+        "name": "Pancakes",
+        "description": "Fluffy pancakes with maple syrup",
+        "price": 9
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Asian Fusion",
+    "description": "A modern twist on Asian classics",
+    "location": "1313 Palm Place",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Korean BBQ Tacos",
+        "description": "Tacos with marinated beef and kimchi",
+        "price": 12
+      },
+      {
+        "id": 2,
+        "name": "Pad See Ew",
+        "description": "Stir-fried noodles with chicken and broccoli",
+        "price": 14
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Steakhouse Prime",
+    "description": "A classic steakhouse experience",
+    "location": "1414 Walnut Street",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Ribeye Steak",
+        "description": "Juicy ribeye cooked to perfection",
+        "price": 30
+      },
+      {
+        "id": 2,
+        "name": "Mashed Potatoes",
+        "description": "Creamy mashed potatoes with gravy",
+        "price": 7
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Tapas & Taps",
+    "description": "Small plates and craft beers",
+    "location": "1515 Fir Avenue",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Patatas Bravas",
+        "description": "Crispy potatoes with spicy sauce",
+        "price": 8
+      },
+      {
+        "id": 2,
+        "name": "Chorizo & Olives",
+        "description": "Spanish sausage with marinated olives",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Dessert Dreams",
+    "description": "Indulgent desserts for every sweet tooth",
+    "location": "1616 Pine Drive",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Chocolate Lava Cake",
+        "description": "Molten chocolate cake with vanilla ice cream",
+        "price": 9
+      },
+      {
+        "id": 2,
+        "name": "Cheesecake",
+        "description": "Creamy cheesecake with berry compote",
+        "price": 7
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Greek Taverna",
+    "description": "Traditional Greek flavors",
+    "location": "1717 Birch Boulevard",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Moussaka",
+        "description": "Layered eggplant and ground beef with béchamel sauce",
+        "price": 15
+      },
+      {
+        "id": 2,
+        "name": "Baklava",
+        "description": "Honey-soaked pastry with nuts",
+        "price": 6
+      }
+    ]
+  },
+  {
+    "name": "BBSR",
+    "description": "BBsr special ",
+    "location": "BBSR , Nagpur",
+    "id": 21
+  }
+]
