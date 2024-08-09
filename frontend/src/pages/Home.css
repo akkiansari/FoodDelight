@@ -1,0 +1,26 @@
+.home-container {
+    background-color: #f8f9fa; /* Light background */
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-btn {
+    width: 200px;
+    padding: 10px 0;
+    font-weight: bold;
+    transition: transform 0.2s, background-color 0.3s ease;
+  }
+  
+  .custom-btn:hover {
+    transform: translateY(-2px);
+  }
+  
+  .custom-btn.btn-primary {
+    background-color: #007bff; /* Primary button color */
+  }
+  
+  .custom-btn.btn-secondary {
+    background-color: #6c757d; /* Secondary button color */
+  }
+  
