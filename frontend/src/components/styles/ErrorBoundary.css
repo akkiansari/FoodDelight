@@ -1,0 +1,18 @@
+.error-boundary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 20px;
+    border: 1px solid #f5c6cb;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .error-boundary h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
